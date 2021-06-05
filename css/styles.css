@@ -178,4 +178,8 @@ p {
     transform: rotate(0);
     width: 50%;
   }
+
+  .big-heading, .section-heading, .testimonial-text, .price-text  {
+    font-size: 2em;
+  }
 }
