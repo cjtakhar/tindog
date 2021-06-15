@@ -1,3 +1,3 @@
 # tindog
 
-A satirical website that demonstrates mobile and desktop responsive design.
+Using media query and bootstrap grid system to demonstrate mobile and desktop responsive design.
