@@ -1,3 +1,3 @@
 # tindog
 
-A mock social media website that demonstrates mobile and desktop responsive design.
+A satirical website that demonstrates mobile and desktop responsive design.
